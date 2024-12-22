@@ -4,7 +4,7 @@ vCard - Personal Portfolio
 
 alt = Syed Sarib Naveed
 Syed Sarib Naveed
-Web developer
+Deep Learning
 
 Show Contacts
 
