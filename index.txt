@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Syed Sarib Naveed
+Syed Sarib Naveed
 Web developer
 
 Show Contacts
