@@ -4,7 +4,7 @@ vCard - Personal Portfolio
 
 alt = Syed Sarib Naveed
 Syed Sarib Naveed
-Deep Learning
+Deep Learning | Computer Vision
 
 Show Contacts
 
